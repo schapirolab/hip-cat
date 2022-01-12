@@ -1,7 +1,5 @@
 # hip-cat
 
-Model corresponding to preprint “A neural network model of hippocampal contributions to category learning” (Sucevic & Schapiro, 2022)
-
 This repository contains a neural network model, based closely on Schapiro et. al. 2017, Philosophical Transactions of the Royal Society B, which we used to explore hippocampal contributions to category learning. We simulated three category learning paradigms. For each paradigm, there are two networks, one simulating intact hippocampal learning and another simulating category learning with lesioned hippocampal pathways.
 
 ### In Control Panel:
