@@ -4,7 +4,7 @@ Model corresponding to preprint “A neural network model of hippocampal contrib
 
 This repository contains a neural network model, based closely on Schapiro et. al. 2017, Philosophical Transactions of the Royal Society B, which we used to explore hippocampal contributions to category learning. We simulated three category learning paradigms. For each paradigm, there are two networks, one simulating intact hippocampal learning and another simulating category learning with lesioned hippocampal pathways.
 
-## In Control Panel:
+### In Control Panel:
 
 1. Select a network
 2. Select training (‘train_patterns’) and test set (‘test_patterns’)
